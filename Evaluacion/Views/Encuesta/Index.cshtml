@@ -1,0 +1,54 @@
+﻿
+@model List<EncuestaLibrery.Encuesta>
+@{
+    ViewBag.Title = "Cuestionario";
+}
+
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Encuesta
+            </th>
+        </tr>
+        <tr>
+
+            <th>
+                <p>
+                    Equipo
+                </p>
+            </th>
+            <th>
+                <p>
+                    Area
+                </p>
+            </th>
+        </tr>
+
+
+    </thead>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @item.equipo
+            </td>
+
+            <td>
+                @item.nombreArea
+            </td>
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.id }) ||
+                @Html.ActionLink("Eliminar", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    @Html.ActionLink("Crear Encuesta", "Create")
+</p>

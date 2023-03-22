@@ -1,0 +1,12 @@
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EncuestaLibrery.dll.config
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EncuestaLibrery.dll
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EncuestaLibrery.pdb
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EntityFramework.dll
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EntityFramework.xml
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\obj\Debug\EncuestaLibrery.csproj.AssemblyReference.cache
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\obj\Debug\EncuestaLibrery.csproj.CoreCompileInputs.cache
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\obj\Debug\EncuestaLibrery.csproj.CopyComplete
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\obj\Debug\EncuestaLibrery.dll
+C:\Users\keybl\source\repos\Evaluacion\EncuestaLibrery\obj\Debug\EncuestaLibrery.pdb
